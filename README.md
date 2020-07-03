@@ -1,1 +1,1 @@
-[https://aliyev-avaz.github.io/](Open Link)
+[Open Link](https://aliyev-avaz.github.io/)
